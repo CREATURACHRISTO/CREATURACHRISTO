@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **CREATURACHRISTO/CREATURACHRISTO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#Who am I?
+
+I'm a computer science major currently studying at the University of Cincinnati. 
+
+#What have I worked on?
+
+I dabbled briefly with making my own Unity platformer on my own time. That project is on indefinite hiatus following some business changed made by Unity. I've also done some work with Siemens, but none of that will be visible on this website for very obvious reasons.
+
+Beyond that, Most of the work here will be various schoolwork from my time with UC.
